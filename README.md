@@ -1,8 +1,9 @@
 # Ruby-on-rails-basics
 
 ## Testing
+#### Configuración y preparación de tests
 ```rb
-# Configuración y preparación de tests
+
 setup do
   # Código de preparación
 end
@@ -18,8 +19,10 @@ end
 after do
   # Código que se ejecuta después de cada test
 end
+```
 
-# Assertions
+#### Assertions
+```rb
 assert
 assert_equal
 assert_not_equal
@@ -31,8 +34,9 @@ assert_instance_of
 assert_kind_of
 assert_respond_to
 assert_raises
-
-# Matchers
+```
+#### Matchers
+```rb
 expect
 to
 not_to
