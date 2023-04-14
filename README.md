@@ -1,4 +1,10 @@
 # Ruby-on-rails-basics
+1. Tipos de datos
+2. Rangos
+3. Ciclos
+4. Simbolos
+5. Regex
+6. Testing
 
 ## Testing
 #### Configuración y preparación de tests
