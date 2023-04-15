@@ -18,6 +18,14 @@ PLATFORMS
 
 DEPENDENCIES
   faker!
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
 
 BUNDLED WITH
    2.4.12
